@@ -1,0 +1,21 @@
+git 사용법
+
+1. 로컬저장소 초기화
+   git init
+   
+2. 계정정보입력
+	 git config --global user.email "ohjjong777@naver.com"
+	 git config --global user.name "LeeJongho7"	 
+   
+3. 커밋에 추가할 파일 선택
+	 git add "사용법.txt"
+   
+4. 파일 커밋
+   git commit -m "초기파일커밋"   
+   
+5. 로그조회
+   git log
+   
+6. checkout
+	 git checkout 4a77ab79ab62cea4fb39c29831249837b0a35b80
+   
