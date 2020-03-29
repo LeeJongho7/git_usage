@@ -19,3 +19,8 @@ git 사용법
 6. checkout
 	 git checkout 4a77ab79ab62cea4fb39c29831249837b0a35b80
    
+7. 로컬저장소에 원격저장소 연결   
+   git remote add origin https://github.com/LeeJongho7/git_usage.git
+   
+8. 로컬저장소의 내용을 원격저장소에 업로드
+   git push origin master  
